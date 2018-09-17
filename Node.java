@@ -1,6 +1,7 @@
-//recycled Node class from COSC 211
-//Coded by Susan Hatem (myself) 
-//Assisted by Dr. Ranjan Chaudhuri
+/*recycled Node class from COSC 211
+ *Coded by Susan Hatem (myself) 
+ *Assisted by Dr. Ranjan Chaudhuri
+ */
 
 public class Node{
 
