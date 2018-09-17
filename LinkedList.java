@@ -8,7 +8,7 @@ public class LinkedList {
 	
 	public static void main(String[] args) {
 		
-		double[] list = {2.6, 5.7, 10.2, 6.8, 2.3, 9.4};
+		double[] list = { 100.0,  10.0,  15.0,  20.0,  200.0,  30.0,  40.0,  300.0 };
 		LinkedList numList = new LinkedList(); 
 				
 			for(int i = 0; i < list.length; i++) {
