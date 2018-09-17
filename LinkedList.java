@@ -32,9 +32,9 @@ public class LinkedList {
 	
 	public LinkedList(double [] data) {
 		head = null;
-        for (int i = 0; i < data.length; i++) {
-            head = new Node(data[i], head);
-        }
+        	for (int i = 0; i < data.length; i++) {
+            		head = new Node(data[i], head);
+        	}
 	}
 	
 	public void add(double num) {
@@ -68,7 +68,7 @@ public class LinkedList {
 		Node second = head.link;
 		if(head.getItem() > a) {
 			head = head.link;
-			}
+		}
 		while(second != null) {
 			if(second.getItem() > a) {
 				first.link = second.link;
